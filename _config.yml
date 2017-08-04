@@ -1,0 +1,7 @@
+# Plugins:
+gems: [jekyll-paginate]
+
+# Basic information:
+title: AC Form
+url: http://acform.pl
+email: acform@acform.pl
