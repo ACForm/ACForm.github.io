@@ -1,0 +1,20 @@
+
+- id: play
+  name: Google Play Services
+  url: https://www.google.com/policies/privacy/
+
+- id: admob
+  name: AbMob
+  url: https://support.google.com/admob/answer/6128543
+
+- id: mopub
+  name: MoPub
+  url: https://www.mopub.com/legal/privacy/
+
+- id: firebase
+  name: Firebase Analytics
+  url: https://firebase.google.com/policies/analytics
+
+- id: fabric
+  name: Fabric
+  url: https://fabric.io/privacy
