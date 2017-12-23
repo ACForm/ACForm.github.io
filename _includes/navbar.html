@@ -2,16 +2,25 @@
 	<div class="container">
 
 		<div class="navbar-header">
+			{% unless page.noMenu %}
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-top-menu" aria-expanded="false" aria-controls="navbar">
 				<span class="sr-only">Toggle navigation</span>
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
+			{% endunless %}
 
-			<a class="visible-xs navbar-brand" href="/">{% if page.mobileTitle %}{{ page.mobileTitle }}{% else %}{{ page.title }}{% endif %}</a>
+			{% if page.appPackage %}
+			<a class="visible-xs navbar-brand" href=".">
+				<img class="app-icon" alt="{{ page.appName }}" src="/assets/img/{{ page.appPackage }}/icon.png" />
+			</a>
+			{% endif %}
+
+			<p class="visible-xs navbar-text navbar-left">{% if page.mobileTitle %}{{ page.mobileTitle }}{% else %}{{ page.title }}{% endif %}</p>
 		</div>
 
+		{% unless page.noMenu %}
 		<div class="navbar-collapse collapse" id="navbar-top-menu" aria-expanded="true">
 			<ul class="nav navbar-nav">
 				{% for menuItem in site.data.menu %}
@@ -19,6 +28,7 @@
 				{% endfor %}
 			</ul>
 		</div>
+		{% endunless %}
 
 	</div>
 </nav>

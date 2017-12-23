@@ -1,0 +1,3 @@
+- name: Torch
+  pathName: torch
+  package: pl.acform.android.torch

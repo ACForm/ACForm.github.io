@@ -3,7 +3,7 @@
     background: #000000;
     color: #a0a0a0;
     margin-top: 30px;
-    padding: 50px 0px;
+    padding: 36px 0px;
 }
 
 .acform-page-footer a,
@@ -15,4 +15,63 @@
 
 .acform-page-footer a:hover {
     color: #f0f0f0;
+}
+
+.acform-page-footer .group {
+    padding: 12px 0px;
+}
+
+.align-right {
+    text-align: right;
+}
+
+.navbar-header .navbar-brand {
+    padding: 9px;
+}
+
+.navbar-header .navbar-brand .app-icon {
+    width: 32px;
+    height: 32px;
+}
+
+.navbar-header .navbar-text {
+    margin-left: 16px;
+}
+
+.jumbotron {
+    margin-top: 60px;
+}
+
+.jumbotron .app-icon {
+    width: 128px;
+    height: 128px;
+    margin-right: 32px;
+}
+
+.jumbotron .play-badge {
+    width: 258px;
+    height: 100px;
+}
+
+.subtitle-xs {
+    font-weight: bold;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+
+.subtitle-xs .play-badge {
+    width: 186px;
+    height: 72px;
+}
+
+.thumbnail .caption {
+    text-align: center;
+}
+
+a.thumbnail,
+a.thumbnail:link,
+a.thumbnail:hover,
+a.thumbnail:visited,
+a.thumbnail:active {
+    text-decoration: none;
 }

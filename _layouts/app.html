@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+	{% include head.html %}
+
+	<body role="document">
+
+		{% include navbar.html %}
+
+		<div class="container" role="main">
+
+			{% include header.html %}
+
+			{% include screenshots.html %}
+
+			{{ content }}
+
+		</div>
+
+		<div class="acform-page-footer">
+			<div class="group">
+				<div class="container small">
+					<a href="./privacy/" target="_blank">Privacy Policy</a>
+				</div>
+				<div class="container small">
+					<a href="./terms/" target="_blank">Terms &amp; Conditions</a>
+				</div>
+			</div>
+			<div class="group">
+				<div class="container small">
+					Google Play and the Google Play logo are trademarks of Google LLC.
+				</div>
+			</div>
+		</div>
+
+		{% include footer.html %}
+
+	</body>
+
+</html>
