@@ -1,5 +1,5 @@
 <p>
-    AC Form built the {{ %page.app_name% }} app as an Ad Supported app.
+    AC Form built the {{ %page.appName% }} app as an Ad Supported app.
     This Service is provided by AC Form at no cost and is intended for use as is.
 </p>
 <p>
@@ -13,7 +13,7 @@
 </p>
 <p>
     The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions page,
-    which is accessible in the {{ %page.app_name% }} app, unless otherwise defined in this Privacy Policy.
+    which is accessible in the {{ %page.appName% }} app, unless otherwise defined in this Privacy Policy.
 </p>
 
 <h2>Information Collection and Use</h2>
@@ -29,10 +29,10 @@
     Links to privacy policy of third party service providers used by the app:
 </p>
 <ul>
-    {% for third_party_id in page.third_party %}
-    {% for third_party_data in site.data.privacy_third_parties %}
-    {% if third_party_id==third_party_data.id %}
-    <li><a href="{{ third_party_data.url }}" target="_blank">{{ third_party_data.name }}</a></li>
+    {% for thirdPartyId in page.thirdParty %}
+    {% for thirdPartyData in site.data.privacyThirdParties %}
+    {% if thirdPartyId==thirdPartyData.id %}
+    <li><a href="{{ thirdPartyData.url }}" target="_blank">{{ thirdPartyData.name }}</a></li>
     {% endif %}
     {% endfor %}
     {% endfor %}

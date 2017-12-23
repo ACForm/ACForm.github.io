@@ -1,8 +1,8 @@
 ---
 title: Torch App Privacy Policy
 layout: privacy
-app_name: Torch
-third_party:
+appName: Torch
+thirdParty:
   - play
   - admob
   - fabric
