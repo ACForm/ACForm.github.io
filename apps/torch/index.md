@@ -1,13 +1,13 @@
 ---
-title: Torch App
-subtitle: Torch with home screen widget, strobe function and Morse code transmitter
+title: Flashlight App
+subtitle: Flashlight with home screen widget, strobe function and Morse code transmitter
 layout: app
-appName: Torch
+appName: Flashlight
 appPackage: pl.acform.android.torch
 screenshotsCount: 7
 ---
 
-Torch application for Android with various features:
+LED flashlight for Android with extra features:
 
 * Convenient app widget with easily configured hue will match every wallpaper.
 * Strobe light function with adjustable frequency.

@@ -1,7 +1,7 @@
 ---
-title: Torch App Terms & Conditions
+title: Flashlight App Terms & Conditions
 layout: terms
 noMenu: true
-appName: Torch
+appName: Flashlight
 appPackage: pl.acform.android.torch
 ---
