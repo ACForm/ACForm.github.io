@@ -7,5 +7,4 @@ appPackage: pl.acform.android.torch
 thirdParty:
   - play
   - admob
-  - fabric
 ---
