@@ -1,3 +1,7 @@
+- name: Bank Calculator
+  pathName: bankcalc
+  package: pl.acform.android.bankcalc
+
 - name: Flashlight
   pathName: torch
   package: pl.acform.android.torch
