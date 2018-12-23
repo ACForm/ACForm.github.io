@@ -5,6 +5,7 @@ layout: app
 appName: Flashlight
 appPackage: pl.acform.android.torch
 screenshotsCount: 7
+lightbox: true
 ---
 
 LED flashlight for Android with extra features:

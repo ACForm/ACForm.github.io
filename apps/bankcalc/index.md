@@ -5,6 +5,7 @@ layout: app
 appName: Bank Calculator
 appPackage: pl.acform.android.bankcalc
 screenshotsCount: 4
+lightbox: true
 ---
 
 * Calculate expected end value of a long term bank deposit

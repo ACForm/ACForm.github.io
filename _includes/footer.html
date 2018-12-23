@@ -2,3 +2,15 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 <script src="/assets/js/bootstrap.min.js"></script>
 <script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
+
+{% if page.lightbox %}
+<script src="/assets/js/lightbox.min.js"></script>
+<script>
+    lightbox.option({
+      'resizeDuration': 300,
+      'fadeDuration': 300,
+      'wrapAround': true,
+      'albumLabel': "Screenshot %1 of %2"
+    })
+</script>
+{% endif %}
