@@ -75,3 +75,7 @@ a.thumbnail:visited,
 a.thumbnail:active {
     text-decoration: none;
 }
+
+.carousel img {
+    min-width: 100%;
+}
