@@ -1,0 +1,14 @@
+- name: Drifting Painter
+  description: Paint over your pictures with tyre traces
+  pathName: drifting-painter
+  package: pl.acform.android.painter.drifting
+
+- name: Flashlight
+  description: Flashlight with home screen widget, strobe function and Morse code transmitter
+  pathName: torch
+  package: pl.acform.android.torch
+
+- name: Bank Calculator
+  description: Calculator for bank loans and deposits
+  pathName: bankcalc
+  package: pl.acform.android.bankcalc

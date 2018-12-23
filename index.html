@@ -13,7 +13,7 @@ layout: default
 
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
-    {% for app in site.data.apps %}
+    {% for app in site.data.featuredApps %}
     {% if forloop.index == 1 %}
     <div class="item active">
     {% else %}
@@ -24,6 +24,7 @@ layout: default
       </a>
       <div class="carousel-caption">
         <h3>{{ app.name }}</h3>
+        <p>{{ app.description }}</p>
       </div>
     </div>
     {% endfor %}
