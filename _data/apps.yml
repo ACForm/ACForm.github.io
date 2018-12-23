@@ -2,6 +2,10 @@
   pathName: bankcalc
   package: pl.acform.android.bankcalc
 
-- name: Flashlight
+- name: Drifting Painter
+  pathName: drifting-painter
+  package: pl.acform.android.painter.drifting
+
+- name: Morse Code Flashlight
   pathName: torch
   package: pl.acform.android.torch
