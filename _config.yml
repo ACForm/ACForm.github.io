@@ -5,3 +5,6 @@ gems: [jekyll-paginate]
 title: AC Form
 url: http://acform.pl
 email: acform@acform.pl
+
+# Include hidden folders:
+include: [".well-known"]
