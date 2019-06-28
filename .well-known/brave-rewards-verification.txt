@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: acform.pl
+Token: 9b7311dfcdcb1a35d9b9a313cd98ec48a32bdf6f218ef05b3eb7ac20a99fada4
