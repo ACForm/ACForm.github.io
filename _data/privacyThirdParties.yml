@@ -7,6 +7,10 @@
   name: AbMob
   url: https://support.google.com/admob/answer/6128543
 
+- id: applovin
+  name: AppLovin
+  url: https://www.applovin.com/privacy/
+
 - id: mopub
   name: MoPub
   url: https://www.mopub.com/legal/privacy/
