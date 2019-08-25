@@ -6,5 +6,5 @@ appName: Bank Calculator
 appPackage: pl.acform.android.bankcalc
 thirdParty:
   - play
-  - applovin
+  - admob
 ---

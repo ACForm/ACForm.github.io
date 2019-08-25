@@ -6,5 +6,5 @@ appName: Flashlight
 appPackage: pl.acform.android.torch
 thirdParty:
   - play
-  - admob
+  - applovin
 ---
