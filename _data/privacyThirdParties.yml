@@ -1,7 +1,7 @@
 
 - id: play
   name: Google Play Services
-  url: https://www.google.com/policies/privacy/
+  url: https://policies.google.com/privacy
 
 - id: admob
   name: AbMob
