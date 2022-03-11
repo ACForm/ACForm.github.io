@@ -4,4 +4,7 @@ layout: terms
 noMenu: true
 appName: Dice Roller
 appPackage: pl.acform.android.dice
+thirdParty:
+  - play
+  - applovin
 ---

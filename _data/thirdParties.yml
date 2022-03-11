@@ -1,0 +1,10 @@
+
+- id: play
+  name: Google Play Services
+  privacyUrl: https://www.google.com/policies/privacy/
+  termsUrl: https://policies.google.com/terms
+
+- id: applovin
+  name: AppLovin
+  privacyUrl: https://www.applovin.com/privacy/
+  termsUrl: https://www.applovin.com/terms/
