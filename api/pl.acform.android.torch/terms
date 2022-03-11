@@ -1,0 +1,10 @@
+---
+layout: null
+appName: Morse Code Flashlight
+thirdParty:
+  - play
+  - applovin
+sitemap:
+  exclude: 'yes'
+---
+{% include terms.md %}
