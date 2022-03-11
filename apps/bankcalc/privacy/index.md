@@ -1,5 +1,5 @@
 ---
-title: Bank Calculator App Privacy Policy
+title: Bank Calculator Privacy Policy
 layout: privacy
 noMenu: true
 appName: Bank Calculator

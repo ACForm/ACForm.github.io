@@ -1,8 +1,8 @@
 ---
-title: Flashlight App Privacy Policy
+title: Morse Code Flashlight Privacy Policy
 layout: privacy
 noMenu: true
-appName: Flashlight
+appName: Morse Code Flashlight
 appPackage: pl.acform.android.torch
 thirdParty:
   - play

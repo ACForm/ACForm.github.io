@@ -1,5 +1,5 @@
 ---
-title: Bank Calculator App
+title: Bank Calculator
 subtitle: Calculator for bank loans and deposits
 layout: app
 appName: Bank Calculator

@@ -1,8 +1,8 @@
 ---
-title: Flashlight App
+title: Morse Code Flashlight
 subtitle: Flashlight with home screen widget, strobe function and Morse code transmitter
 layout: app
-appName: Flashlight
+appName: Morse Code Flashlight
 appPackage: pl.acform.android.torch
 screenshotsCount: 4
 lightbox: true

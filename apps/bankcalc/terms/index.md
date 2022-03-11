@@ -1,5 +1,5 @@
 ---
-title: Bank Calculator App Terms & Conditions
+title: Bank Calculator Terms & Conditions
 layout: terms
 noMenu: true
 appName: Bank Calculator
