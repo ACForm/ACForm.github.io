@@ -4,7 +4,7 @@ subtitle: Flashlight with home screen widget, strobe function and Morse code tra
 layout: app
 appName: Flashlight
 appPackage: pl.acform.android.torch
-screenshotsCount: 7
+screenshotsCount: 4
 lightbox: true
 ---
 
